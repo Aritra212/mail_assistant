@@ -21,8 +21,11 @@ This project is a Smart Job Application Email Generator that utilizes the Gemini
 - Advanced analysis mode for detailed skill matching and email generation.
 - User-friendly interface with clear instructions and error handling.
 
-!(./screenshots/app-img-1.png)
-!(./screenshots/app-img-2.png)
+## UI
+- Screenshot (1)
+ ![Application image](./screenShots/app-img-1.png)
+- Screenshot (2)
+ ![Application image](./screenShots/app-img-2.png)
 
 ## Installation
 1. Clone this repository:
@@ -32,9 +35,9 @@ This project is a Smart Job Application Email Generator that utilizes the Gemini
  
 2. To run this project, you need to install the required dependencies. You can do this by running:
 
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 3. Get a Google Gemini API key from [Google AI Studio](https://aistudio.google.com/app/apikey)
 
 ## Usage
